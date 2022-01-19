@@ -1,0 +1,94 @@
+body {
+    background-color: #cddae3;
+}
+
+.displayflex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.w150 {
+    width: 150px;
+}
+
+.h150 {
+    height: 150px;
+}
+
+.h400 {
+    height: 400px;
+}
+
+.border {
+    border: 3px solid #94bacb;
+    border-radius: 20px;
+    width: 1200px;
+    margin-left: 160px;
+
+
+}
+
+.border > h3 {
+    margin-top: 40px;
+
+}
+
+
+.widget-sqr {
+    border-radius: 15px;
+    margin-right: 37px;
+}
+
+.text {
+    margin-top: 20px;
+
+}
+
+.text > div {
+    margin-right: 55px;
+    /*я знаю що так не правильно вибачайте*/
+
+}
+
+.container-2 {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.DarkBlueBG {
+    background-color: #102b3e;
+}
+
+.AquaBG {
+    background-color: #94bacb;
+}
+
+.circle {
+    border-radius: 50%;
+    margin-right: 70px;
+    margin-top: 100px;
+
+}
+
+.txtDarkBlue {
+    color: #102b3e;
+}
+
+.txtAqua {
+    color: #94bacb;
+}
+
+/*.frame{*/
+/*    border: 1px solid red;*/
+/*    */
+
+/*}*/
+
+
+
+
+
+
+
+
